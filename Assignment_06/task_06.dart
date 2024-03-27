@@ -1,5 +1,6 @@
 void main() {
-  Map world = {
+  
+  Map<String,dynamic> world = {
     'Pakistan': {
       'capitalCity': 'Islamabad',
       'currency': 'Rupee',
