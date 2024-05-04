@@ -1,4 +1,4 @@
-// Q10. Create Dart code to calculate the average of numbers in a list using a do-while loop.#
+// Q10. Create Dart code to calculate the average of numbers in a list using a do-while loop.X
 void main(){
   List<int> nums = [1,2,3,4,5];
   int count;
